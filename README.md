@@ -1,2 +1,1 @@
-# gorilla-tag-quest
-gorilla tag quest mods | some mods might not work
+SERVERS ARE UP AND RUNNING BUT IF YOU DONT CONNECT TO A LOBBY INSTANTLY IT IS BECAUSE OF THE LOW CCU.
